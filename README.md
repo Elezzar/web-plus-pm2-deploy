@@ -1,3 +1,4 @@
-# Деплой приложения на сервер с использованием pm2
+публичный IP: 84.201.149.205
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+front: nik-vorozhishchev.nomorepartiesco.ru
+back: api.nik-vorozhishchev.nomorepartiesco.ru
