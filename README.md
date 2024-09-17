@@ -1,4 +1,4 @@
-публичный IP: 84.201.149.205
+публичный IP: 84.201.171.98
 
 front: nik-vorozhishchev.nomorepartiesco.ru
 back: api.nik-vorozhishchev.nomorepartiesco.ru
